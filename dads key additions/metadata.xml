@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Dad's Key Additions (+Soul of Cain)</name>
+    <directory>dads key additions</directory>
+    <id>3818891821</id>
+    <description>This mod adds additional behavior for Dad's Key and Soul of Cain.
+
+Dad's Key will additionally open:
+[list]
+    [*]locked chests - golden, eternal, old, and mega chests (eternal chests can re-close)
+    [*]bomb chests - dad's key can open bombable doors
+    [*]key blocks - rgon+ recommended but not required
+    [*]strange door - polaroid door to the ascent (soul of cain already does this)
+    [*]flesh door - knife door to the corpse (soul of cain already does this)
+[/list]
+
+Get out of Jail Free Card is also supported since it triggers Dad's Key.
+
+Soul of Cain will additionally open:
+[list]
+    [*]mirror - fix instead of break the mirror to the mirror dimension
+    [*]boss rush - open the door to boss rush even if you're past 20 minutes (after mom is defeated)
+    [*]blue womb - open the door to hush even if you're past 30 minutes (after mom's heart is defeated)
+    [*]devil door - open a devil/angel room door even if the devil percent is zero (after boss is defeated)
+[/list]
+
+On XL floors, the new boss room behavior only works in the 2nd boss room. Doors spawned in boss rooms likely won't stay open. Once you leave the room, normal rules will apply.
+
+The additional soul of cain behavior can also be enabled for dad's key. Mod Config Menu is required to change your settings.
+
+Note: devil door behavior is disabled in ???, The Void, and Home.
+
+Chest/block behavior is unique to Dad's Key. Red room behavior is unique to Soul of Cain.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+    <tag id="Cards"/>
+    <tag id="Tweaks"/>
+</metadata>
